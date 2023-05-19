@@ -1,4 +1,4 @@
-# Email-server
+# Email-Server
 implementing a simple email server and a frontend user interface
 
 ## implementation details
