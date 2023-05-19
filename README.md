@@ -44,4 +44,4 @@ implementing a simple email server and a frontend user interface
 - **[Ahmed M. Hassan](https://github.com/ahmedMhassan10)**
 - **[Karim Fathy](https://github.com/karimfathy054)**
 - **[Mohamed Reyad](https://github.com/moriyad12)**
-- **[Faris M. Anwar]()**
+- **[Faris M. Anwar]()**.
